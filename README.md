@@ -5,13 +5,13 @@
 ![Bugs](https://img.shields.io/badge/Bugs%20Críticos-10-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
-## 🚀 Visão Geral
+## Visão Geral
 
 Este repositório documenta um **projeto freelancer de testes exploratórios** executado para o mentor **Júlio de Lima**. O trabalho consistiu na aplicação de **Testes Exploratórios Baseados em Sessão (SBTM)** em uma aplicação web de visualização de vagas extraídas do LinkedIn.
 
 **Autorizado pelo cliente para publicação pública.** O foco principal foi a identificação e documentação de **bugs críticos**, vulnerabilidades de segurança e problemas de usabilidade/layout. Este projeto exemplifica a aplicação de metodologias profissionais de QA em um cenário real de desenvolvimento.
 
-## 📊 Resumo dos Resultados
+## Resumo dos Resultados
 
 | Métrica | Resultado |
 |:--- |:--- |
@@ -29,12 +29,12 @@ Para a descoberta dos defeitos, foram aplicadas diversas técnicas e ferramentas
 *   **Ferramentas**: DevTools (Network, Application, Lighthouse), Axe DevTools (Acessibilidade), HTML Checker.
 *   **Segurança**: Testes de Injeção de SQL e persistência de sessão.
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 -   [`/docs/reports/`](./docs/reports/session_reports.md): Relatórios detalhados de cada uma das 11 sessões de teste.
 -   [`/artifacts/`](./artifacts/defect_log.md): Planilha completa de reporte de defeitos com severidade e descrição.
 
-## 🔴 Destaques de Defeitos Críticos
+## Destaques de Defeitos Críticos
 
 1.  **Vulnerabilidade de Autenticação (BUG-007)**: Status Code 200 retornado para credenciais inválidas em vez de 401 Unauthorized. Falha crítica na API de login.
 2.  **Segurança - Força Bruta (BUG-005)**: Falta de bloqueio após múltiplas tentativas de senha, permitindo ataques de força bruta.
@@ -44,7 +44,7 @@ Para a descoberta dos defeitos, foram aplicadas diversas técnicas e ferramentas
 
 ---
 
-## 📋 Informações do Projeto
+## Informações do Projeto
 
 - **Testadora**: Simone Monteiro Gabionetta
 - **Mentor/Supervisor**: Júlio de Lima

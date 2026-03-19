@@ -9,7 +9,9 @@
 
 Este repositório documenta um **projeto freelancer de testes exploratórios** executado para o mentor **Júlio de Lima**. O trabalho consistiu na aplicação de **Testes Exploratórios Baseados em Sessão (SBTM)** em uma aplicação web de visualização de vagas extraídas do LinkedIn.
 
-**Autorizado pelo cliente para publicação pública.** O foco principal foi a identificação e documentação de **bugs críticos**, vulnerabilidades de segurança e problemas de usabilidade/layout. Este projeto exemplifica a aplicação de metodologias profissionais de QA em um cenário real de desenvolvimento.
+O foco principal foi a identificação e documentação de **bugs críticos**, vulnerabilidades de segurança e problemas de usabilidade/layout. Este projeto exemplifica a aplicação de metodologias profissionais de QA em um cenário real de desenvolvimento.
+#
+
 
 ## Resumo dos Resultados
 
@@ -55,3 +57,4 @@ Para a descoberta dos defeitos, foram aplicadas diversas técnicas e ferramentas
 ---
 
 *Este repositório serve como documentação profissional de um projeto freelancer de testes, demonstrando aplicação prática de metodologias SBTM, identificação de vulnerabilidades críticas e comunicação clara de achados de teste.*
+
